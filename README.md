@@ -1,6 +1,8 @@
 ### Olá! 👋
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=dyogohenrique" />
+<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
 <!--
 **dyogohenrique/dyogohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
