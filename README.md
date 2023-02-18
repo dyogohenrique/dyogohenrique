@@ -2,7 +2,7 @@
 
 <a href="https://github.com/dyogohenrique"><img src="contributions.svg"></a>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=dyogohenrique.dyogohenrique" />
 <!--
 **dyogohenrique/dyogohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
